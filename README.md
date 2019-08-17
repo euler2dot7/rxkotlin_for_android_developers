@@ -1,2 +1,17 @@
-# rxkotlin_for_android_developers
-Code from book "RxJava for Android Developers"  in RxKotlin
+#"RxJava for Android Developers"  in RxKotlin
+[![Kotlin](https://img.shields.io/badge/style-1.3.41-green.svg?style=flat&label=Kotlin)](https://kotlinlang.org) 
+
+Original source code is written in java using rxbinding2. 
+In this repo all examples are written in kotlin using advantages of rxkotlin and rxbinding3.
+
+Original code: [tehmou/RxJava-for-Android-Developers](https://github.com/tehmou/RxJava-for-Android-Developers) 
+[rxkotlin](https://github.com/ReactiveX/RxKotlin)
+[rxbinding3](https://github.com/JakeWharton/RxBinding/tree/master/rxbinding/src/main/java/com/jakewharton/rxbinding3)
+
+Free ebook: [Online version](https://www.manning.com/books/rxjava-for-android-developers)
+![rx java book](/book.png?raw=true "")  
+
+
+
+
+
